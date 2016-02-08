@@ -1,3 +1,2 @@
 # gcloud-nodejs
-.
 
